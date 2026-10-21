@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Aayushi Kumar — Developer Portfolio
 
-## Getting Started
+Personal portfolio showcasing my software engineering experience, selected projects, system architecture, and engineering decisions.
 
-First, run the development server:
+**Live Website:** https://developer-portfolio-psi-two.vercel.app/
+
+## About
+
+I'm a software engineer with 9+ years of experience building backend systems, cloud infrastructure, and web applications.
+
+I enjoy tackling unfamiliar problems, understanding how systems work, and turning complex challenges into practical, reliable solutions.
+
+## Featured Projects
+
+- **Video Processing & Delivery Platform** — AWS-based video transcoding and delivery using Lambda, S3, MediaConvert, and CloudFront.
+- **Cloud Deployment Modernization & PR Environments** — Container-based deployment workflows and automated preview environments.
+- **Domain-Aware Routing & Rewrites** — Next.js middleware for multi-domain routing and localization.
+- **Image Processor API** — REST API for applying image transformations using Python, Flask, and Pillow.
+- **Vaccine Finder — Address Processing & Data Integration** — Backend address processing and location resolution for vaccine availability data.
+
+## Built With
+
+- Next.js 16
+- React
+- TypeScript
+- Tailwind CSS
+- Vercel
+
+## Running Locally
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/AayushiKumar01/developer-portfolio.git
+cd developer-portfolio
+npm install
+```
+
+Start the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+To create a production build:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build
+```
 
-## Learn More
+## Deployment
 
-To learn more about Next.js, take a look at the following resources:
+The portfolio is deployed on Vercel.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Copyright
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+© 2026 Aayushi Kumar. All rights reserved.
 
-## Deploy on Vercel
+Unless explicitly stated otherwise, no license is granted to reuse, redistribute, or create derivative works from the original portfolio code, design, or written content, except as permitted by applicable law and GitHub's Terms of Service.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Project descriptions are based on professional and personal engineering experience and do not disclose proprietary source code.
