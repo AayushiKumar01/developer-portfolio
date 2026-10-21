@@ -11,12 +11,10 @@ export default function Hero() {
         </h1>
 
         <p className="mt-8 max-w-2xl text-lg leading-8 text-zinc-400">
-            With 9 years of experience building software across different
-            technology stacks, I&apos;ve learned that I don&apos;t need to
-            know everything on day one. I research, experiment, dig into
-            difficult problems, and learn what it takes to move forward.
-            My goal is simple: turn challenging problems into working
-            solutions and see the work through.
+            I'm a software engineer with 9+ years of experience building backend systems,
+            cloud infrastructure, and web applications. I enjoy tackling unfamiliar
+            problems, understanding how systems work, and turning complex
+            challenges into practical, reliable solutions.
         </p>
 
         <div className="mt-10 flex flex-wrap gap-4">

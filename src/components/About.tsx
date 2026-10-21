@@ -17,23 +17,22 @@ export default function About() {
 
             <div className="space-y-6 leading-8 text-zinc-400">
                 <p>
-                    I&apos;m a software engineer with 9 years of experience
-                    working across backend systems, cloud infrastructure,
-                    and web applications.
-                </p>
-
-                <p>
                     I enjoy investigating complex problems, learning
                     unfamiliar technologies, and collaborating with
                     engineers to turn ideas into working solutions.
                 </p>
 
                 <p>
-                    I approach engineering with curiosity,
-                    persistence, and a strong sense of ownership.
-                    I embrace modern tools, including AI-assisted development,
-                    to accelerate learning and problem-solving while staying hands-on
-                    with technical decisions, debugging, and delivering reliable solutions.
+                    My approach to engineering is grounded in curiosity, persistence,
+                    and ownership. I believe good solutions come from understanding
+                    the problem deeply, making thoughtful technical decisions,
+                    and following through until the work is delivered.
+                </p>
+
+                <p>
+                    I&apos;m particularly drawn to backend systems,
+                    cloud infrastructure, and opportunities to
+                    simplify complex engineering challenges.
                 </p>
             </div>
         </div>
