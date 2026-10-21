@@ -13,6 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(
+    "https://developer-portfolio-psi-two.vercel.app"
+  ),
   title: "Aayushi Kumar | Software Engineer",
   description:
     "Aayushi Kumar is a software engineer with 9+ years of experience building backend systems, cloud infrastructure, and web applications. Explore projects, architecture, and engineering decisions.",
